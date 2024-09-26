@@ -1,0 +1,9 @@
+Reference,Value,Datasheet,Footprint,Qty,DNP
+BT1,24V,,BATTERY:BATTERY,1,
+C4,220uf,http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf,KiCadGRM:CAPC3216X180N,1,
+D1,40V,https://www.vishay.com/docs/88885/ssc53l.pdf,KiCad:DIOM7959X262N,1,
+L1,68uH,https://www.mouser.in/datasheet/2/281/1/JELF243A_0163-1699612.pdf,LQH32MN680J23L:IND_LQH32MN680J23L,1,
+MES1,Voltmeter_DC,~,Connector_AMASS:AMASS_XT60-F_1x02_P7.20mm_Vertical,1,
+R1,95ohm,~,Resistor_SMD:R_0201_0603Metric,1,
+R2,100ohm,~,Resistor_SMD:R_0201_0603Metric,1,
+SW1,ON/OFF,~,RR511D1121:E-SWITCH_RR511D1121,1,
